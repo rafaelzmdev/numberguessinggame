@@ -108,12 +108,3 @@ if lastfeedback == 'y':
     print("Yess! It was nice to play with you, thanks!")
 else:
     print("Aww. Maybe we could play again and you would give me another chance? ;)")
-
-
-            
-        
-
-
-    
-    
-    
